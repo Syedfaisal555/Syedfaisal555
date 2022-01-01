@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syedfaisal555
-- 👀 I’m interested in technology,
+- 👀 I’m interested in technology,finance,codings
 - 🌱 I’m currently learning java programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email
